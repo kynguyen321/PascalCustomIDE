@@ -1,6 +1,9 @@
 # PascalCustomIDE
 
-## Đây là mã nguồn thực thi file Pascal
+## Đây là mã nguồn thực thi file Pascal, hãy tải xuống để cập nhật bản mới nhất
+### Phiên bản beta 1.0.1 :
+### Fix lỗi màn hình kết thúc chương trìng không tự động xuống dòng
+### Cải tiến code xử lí chương trình
 
 ## Hướng dẫn :
 
