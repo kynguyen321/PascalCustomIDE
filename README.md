@@ -14,4 +14,4 @@
 ### Chạy file Untitled-1.pas trong thư mục PascalFile bằng phần mềm Notepad mặc định của Windows ( nhấp chuột phải vào file, chọn "Mở bằng", chọn Notepad )
 
 ### Bước 4 :
-chạy file Run.cmd để thực thi lệnh
+### chạy file Run.cmd để thực thi lệnh
