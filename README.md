@@ -11,7 +11,7 @@
 ### Giải nén tệp .zip vùa tải về ( nếu giải nén rồi thì bỏ qua bước này )
 
 ### Bước 3 :
-### Chạy file Untitled-1.pas trong thư mục PascalFile bằng phần mềm Notepad mặc định của Windows ( nhấp chuột phải vào file, chọn "Mở bằng", chọn Notepad )
+### Chạy file Untitled-1.txt trong thư mục PascalFile để code
 
 ### Bước 4 :
 ### Trước khi thực thi lệnh phải nhấn Ctrl + S để lưu file.
