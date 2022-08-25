@@ -1,6 +1,6 @@
 @ECHO OFF
 :end
-fpc -Aas ".\PascalFile\Untitled-1.pas"
+fpc -Aas ".\PascalFile\Untitled-1.txt"
 cls
 .\PascalFile\Untitled-1.exe
 echo =====================================================
