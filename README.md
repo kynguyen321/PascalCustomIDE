@@ -17,4 +17,4 @@
 ### Trước khi thực thi lệnh phải nhấn Ctrl + S để lưu file.
 
 ### Bước 5 :
-### Chạy file Run.cmd để thực thi lệnh và nhấn Enter để thực thi lại lệnh ( có thể phải nhấn Enter 2 lần trở lên để kết thúc chương trình tùy vào nội dung code )
+### Chạy file Run.cmd để thực thi lệnh và nhấn Enter để thực thi lại lệnh ( có thể phải nhấn Enter 2 lần trở lên để kết thúc chương trình và chạy lại tùy vào nội dung code )
