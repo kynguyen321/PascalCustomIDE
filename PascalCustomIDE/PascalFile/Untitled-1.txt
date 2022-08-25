@@ -8,4 +8,4 @@ begin
     yourname := yourname + 8;
     writeln(yourname);
     readln;
-end.cd cd
+end.
