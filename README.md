@@ -1,8 +1,9 @@
 # PascalCustomIDE
 
 ## Đây là mã nguồn thực thi file Pascal, hãy tải xuống để cập nhật bản mới nhất
-### Phiên bản beta 1.2.1 :
-### Sửa lỗi Compiler bị ngừng 
+### Phiên bản beta 2.2.1 :
+### Sửa lỗi Compiler bị ngừng
+### Sửa lỗi hiện thị lỗi code, lỗi hiển thị Free Pascal Compiler, các thông báo Error
 
 ## Hướng dẫn :
 
