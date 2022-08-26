@@ -8,7 +8,7 @@
 ## Hướng dẫn :
 
 ### Bước 1 :
-### Tải chương trình Free Pascal và mã nguồn tôi đã đưa lên bằng tệp .zip ( nếu tải rồi thì bỏ qua bước này )
+### Tải chương trình Free Pascal [tại đây](https://udomain.dl.sourceforge.net/project/freepascal/Win32/3.2.2/fpc-3.2.2.i386-win32.exe) và mã nguồn tôi đã đưa lên bằng tệp .zip ( nếu tải rồi thì bỏ qua bước này )
 
 ### Bước 2 :
 ### Giải nén tệp .zip vùa tải về ( nếu giải nén rồi thì bỏ qua bước này )
