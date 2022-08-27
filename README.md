@@ -1,10 +1,8 @@
 # PascalCustomIDE
 
 ## Đây là mã nguồn thực thi file Pascal, hãy tải xuống để cập nhật bản mới nhất
-### Phiên bản beta 2.2.1 :
-### Sửa lỗi Compiler bị ngừng
-### Sửa lỗi hiện thị lỗi code, lỗi hiển thị Free Pascal Compiler, các thông báo Error
-
+### Phiên bản beta 5.0.9 :
+### Thực thi file Pascal trên 2 phần mềm IDE nổi tiếng là Visual Studio Code và Visual Studio ( bằng cách gọi file run.cmd trong thư mục PascalCustomIDE bằng cửa sổ Terminal )
 ## Hướng dẫn :
 
 ### Bước 1 :
